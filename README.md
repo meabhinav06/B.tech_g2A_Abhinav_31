@@ -1,2 +1,2 @@
-# B.tech_g2A_Ab0inav_31
+# B.tech_g2A_Abhinav_31
 C Programs
